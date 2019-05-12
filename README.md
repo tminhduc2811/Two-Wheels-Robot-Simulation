@@ -2,11 +2,11 @@
 A simulation of two wheels kinematic model robot
 
 <p align="center">
-  <img src="Images/model.PNG">
+  <img src="Images/model.JPG">
 </p>
 
 # Equations
 
 <p align="center">
-  <img src="Images/eq1.PNG">
+  <img src="Images/eq1.JPG">
 </p>
