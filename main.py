@@ -47,4 +47,6 @@ if __name__ == '__main__':
     my_robot.run(30, 32, 5)
     my_robot.run(42, 36, 7)
     my_robot.run(40, 40, 12)
+    my_robot.run(34, 31, 13)
+    my_robot.run(30, 30, 15)
     plt.show()
