@@ -13,4 +13,4 @@ A simulation of two wheels kinematic model robot
 
 Where:
 
-<img src="Images/eq2.JPG" width="250"> |  <img src="Images/eq3.JPG" width="250"> |  <img src="Images/eq4.JPG" width="250">
+<img src="Images/eq2.JPG" width="50"> |  <img src="Images/eq3.JPG" width="60"> |  <img src="Images/eq4.JPG" width="60">
