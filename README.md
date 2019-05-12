@@ -2,7 +2,7 @@
 A simulation of two wheels kinematic model robot
 
 <p align="center">
-  <img src="Images/MODEL.JPG">
+  <img src="Images/Model.JPG">
 </p>
 
 # Equations
@@ -13,4 +13,4 @@ A simulation of two wheels kinematic model robot
 
 Where:
 
-<img src="Images/eq2.jpg" width="250"> |  <img src="Images/eq3.jpg" width="250"> |  <img src="Images/eq4.jpg" width="250">
+<img src="Images/eq2.JPG" width="250"> |  <img src="Images/eq3.JPG" width="250"> |  <img src="Images/eq4.JPG" width="250">
