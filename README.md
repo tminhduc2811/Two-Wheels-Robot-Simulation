@@ -8,9 +8,9 @@ A simulation of two wheels kinematic model robot
 # Equations
 
 <p align="center">
-  <img src="Images/eq1.JPG">
+  <img src="Images/eq1.JPG" width="250">
 </p>
 
 Where:
 
-<img src="Images/eq2.JPG" width="50"> |  <img src="Images/eq3.JPG" width="60"> |  <img src="Images/eq4.JPG" width="60">
+<img src="Images/eq2.JPG" width="100"> |  <img src="Images/eq3.JPG" width="80"> |  <img src="Images/eq4.JPG" width="80">
